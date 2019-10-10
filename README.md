@@ -5,24 +5,25 @@ Minimal Django web app example based on
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
+```
 pip install -r "requirements.txt"
+```
 
 ### Installing
-```python
+```
 django-admin startproject hellodjango
 cd hellodjango
 python manage.py startapp helloworld
 ```
 
-## Deployment 
-
 ## Built With 
 * [Django](https://github.com/django/django)
 
 ## Run 
-```python
+```
 cd hellodjango
 python manage.py runserver
+http://127.0.0.1:8000/hello
 ```
 
 ## Acknowledgements
