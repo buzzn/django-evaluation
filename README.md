@@ -8,7 +8,9 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 pip install -r "requirements.txt"
 ```
+
 ## Built With 
+* Python 3
 * [Django](https://github.com/django/django)
 
 ## Run 
