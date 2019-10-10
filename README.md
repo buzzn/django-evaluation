@@ -8,22 +8,14 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 pip install -r "requirements.txt"
 ```
-
-### Installing
-```
-django-admin startproject hellodjango
-cd hellodjango
-python manage.py startapp helloworld
-```
-
 ## Built With 
 * [Django](https://github.com/django/django)
 
 ## Run 
 ```
-cd hellodjango
+cd mybuzzn
 python manage.py runserver
-http://127.0.0.1:8000/hello
+http://127.0.0.1:8000/mybuzzn
 ```
 
 ## Acknowledgements
